@@ -1,0 +1,300 @@
+bps_kode_provinsi,bps_nama_provinsi,bps_kode_kabupaten_kota,bps_nama_kabupaten_kota,tahun,tingkat_pengangguran_terbuka,satuan
+11,Aceh,1101,Kabupaten Simeulue,2010,12.25,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2010,9.31,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2010,11.34,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2010,9.9,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2010,6.13,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2010,2.55,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2010,3.52,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2010,11.6,persen
+11,Aceh,1109,Kabupaten Pidie,2010,7.56,persen
+11,Aceh,1110,Kabupaten Bireuen,2010,7.32,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2010,12.78,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2010,6.14,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2010,4.72,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2010,8.03,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2010,3.94,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2010,7.78,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2010,2.25,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2010,5.81,persen
+11,Aceh,1171,Kota Banda Aceh,2010,11.56,persen
+11,Aceh,1172,Kota Sabang,2010,10.02,persen
+11,Aceh,1173,Kota Langsa,2010,12.95,persen
+11,Aceh,1174,Kota Lhokseumawe,2010,11.83,persen
+11,Aceh,1175,Kota Subulussalam,2010,4.28,persen
+11,Aceh,1101,Kabupaten Simeulue,2011,7.36,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2011,7.67,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2011,6.41,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2011,7.69,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2011,7.97,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2011,6.1,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2011,6.39,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2011,7.93,persen
+11,Aceh,1109,Kabupaten Pidie,2011,6.92,persen
+11,Aceh,1110,Kabupaten Bireuen,2011,7.65,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2011,8.68,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2011,6.83,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2011,6.93,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2011,6.71,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2011,7.13,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2011,6.29,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2011,5.19,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2011,7.95,persen
+11,Aceh,1171,Kota Banda Aceh,2011,8.52,persen
+11,Aceh,1172,Kota Sabang,2011,6.06,persen
+11,Aceh,1173,Kota Langsa,2011,7.61,persen
+11,Aceh,1174,Kota Lhokseumawe,2011,7.63,persen
+11,Aceh,1175,Kota Subulussalam,2011,8.18,persen
+11,Aceh,1101,Kabupaten Simeulue,2012,8,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2012,8.96,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2012,7.21,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2012,13.04,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2012,7.26,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2012,2.22,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2012,6.21,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2012,13.15,persen
+11,Aceh,1109,Kabupaten Pidie,2012,7.19,persen
+11,Aceh,1110,Kabupaten Bireuen,2012,9.97,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2012,15.47,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2012,11.97,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2012,2.97,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2012,9.19,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2012,7.63,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2012,5.9,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2012,1.41,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2012,8.52,persen
+11,Aceh,1171,Kota Banda Aceh,2012,7.17,persen
+11,Aceh,1172,Kota Sabang,2012,9.53,persen
+11,Aceh,1173,Kota Langsa,2012,8.79,persen
+11,Aceh,1174,Kota Lhokseumawe,2012,10.88,persen
+11,Aceh,1175,Kota Subulussalam,2012,8.25,persen
+11,Aceh,1101,Kabupaten Simeulue,2013,6.42,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2013,11.07,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2013,7.95,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2013,16.82,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2013,11.42,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2013,2.42,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2013,7.42,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2013,13.15,persen
+11,Aceh,1109,Kabupaten Pidie,2013,8.88,persen
+11,Aceh,1110,Kabupaten Bireuen,2013,9.57,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2013,17.97,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2013,10.3,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2013,1.2,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2013,10.49,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2013,7.77,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2013,9.68,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2013,0.63,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2013,12.82,persen
+11,Aceh,1171,Kota Banda Aceh,2013,9.02,persen
+11,Aceh,1172,Kota Sabang,2013,12.5,persen
+11,Aceh,1173,Kota Langsa,2013,11.74,persen
+11,Aceh,1174,Kota Lhokseumawe,2013,7.46,persen
+11,Aceh,1175,Kota Subulussalam,2013,9.85,persen
+11,Aceh,1101,Kabupaten Simeulue,2014,5.57,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2014,6.08,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2014,9.49,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2014,9.51,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2014,10.61,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2014,3.32,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2014,5.86,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2014,10.53,persen
+11,Aceh,1109,Kabupaten Pidie,2014,11.73,persen
+11,Aceh,1110,Kabupaten Bireuen,2014,9.02,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2014,13.58,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2014,6.79,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2014,0.37,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2014,9.75,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2014,3.69,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2014,9.48,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2014,0.74,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2014,8.16,persen
+11,Aceh,1171,Kota Banda Aceh,2014,10.24,persen
+11,Aceh,1172,Kota Sabang,2014,7.48,persen
+11,Aceh,1173,Kota Langsa,2014,9.89,persen
+11,Aceh,1174,Kota Lhokseumawe,2014,11.23,persen
+11,Aceh,1175,Kota Subulussalam,2014,8.55,persen
+11,Aceh,1101,Kabupaten Simeulue,2015,8.51,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2015,7.03,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2015,10.01,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2015,9.79,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2015,13.89,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2015,3.13,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2015,6.77,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2015,6.81,persen
+11,Aceh,1109,Kabupaten Pidie,2015,10.25,persen
+11,Aceh,1110,Kabupaten Bireuen,2015,11.02,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2015,17.05,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2015,11.66,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2015,2.24,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2015,14.03,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2015,3.97,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2015,4.91,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2015,1.04,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2015,9.18,persen
+11,Aceh,1171,Kota Banda Aceh,2015,12,persen
+11,Aceh,1172,Kota Sabang,2015,7.62,persen
+11,Aceh,1173,Kota Langsa,2015,8.55,persen
+11,Aceh,1174,Kota Lhokseumawe,2015,13.06,persen
+11,Aceh,1175,Kota Subulussalam,2015,8.24,persen
+11,Aceh,1101,Kabupaten Simeulue,2016,,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2016,,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2016,,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2016,,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2016,,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2016,,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2016,,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2016,,persen
+11,Aceh,1109,Kabupaten Pidie,2016,,persen
+11,Aceh,1110,Kabupaten Bireuen,2016,,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2016,,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2016,,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2016,,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2016,,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2016,,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2016,,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2016,,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2016,,persen
+11,Aceh,1171,Kota Banda Aceh,2016,,persen
+11,Aceh,1172,Kota Sabang,2016,,persen
+11,Aceh,1173,Kota Langsa,2016,,persen
+11,Aceh,1174,Kota Lhokseumawe,2016,,persen
+11,Aceh,1175,Kota Subulussalam,2016,,persen
+11,Aceh,1101,Kabupaten Simeulue,2017,3.12,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2017,7.14,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2017,7.24,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2017,4.75,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2017,8.42,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2017,3.91,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2017,6.2,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2017,8.49,persen
+11,Aceh,1109,Kabupaten Pidie,2017,7.64,persen
+11,Aceh,1110,Kabupaten Bireuen,2017,4.5,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2017,11.02,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2017,3.16,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2017,1.71,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2017,5.43,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2017,4.11,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2017,6.23,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2017,1.06,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2017,4.89,persen
+11,Aceh,1171,Kota Banda Aceh,2017,7.75,persen
+11,Aceh,1172,Kota Sabang,2017,3,persen
+11,Aceh,1173,Kota Langsa,2017,7.03,persen
+11,Aceh,1174,Kota Lhokseumawe,2017,10.51,persen
+11,Aceh,1175,Kota Subulussalam,2017,4.91,persen
+11,Aceh,1101,Kabupaten Simeulue,2018,4.94,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2018,8.04,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2018,6.08,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2018,3.76,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2018,6.93,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2018,2.13,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2018,8.67,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2018,7.3,persen
+11,Aceh,1109,Kabupaten Pidie,2018,7.23,persen
+11,Aceh,1110,Kabupaten Bireuen,2018,3.52,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2018,10.18,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2018,3.95,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2018,2.52,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2018,6.25,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2018,5.94,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2018,4.95,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2018,1.07,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2018,5.02,persen
+11,Aceh,1171,Kota Banda Aceh,2018,7.29,persen
+11,Aceh,1172,Kota Sabang,2018,4.21,persen
+11,Aceh,1173,Kota Langsa,2018,7.12,persen
+11,Aceh,1174,Kota Lhokseumawe,2018,12.52,persen
+11,Aceh,1175,Kota Subulussalam,2018,6.49,persen
+11,Aceh,1101,Kabupaten Simeulue,2019,5.87,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2019,8.6,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2019,6.58,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2019,3.46,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2019,7.64,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2019,2.65,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2019,7.45,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2019,7.75,persen
+11,Aceh,1109,Kabupaten Pidie,2019,6.89,persen
+11,Aceh,1110,Kabupaten Bireuen,2019,3.88,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2019,8.63,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2019,4.3,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2019,1.74,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2019,6.07,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2019,5.35,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2019,4.19,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2019,1.02,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2019,4.36,persen
+11,Aceh,1171,Kota Banda Aceh,2019,6.92,persen
+11,Aceh,1172,Kota Sabang,2019,4.6,persen
+11,Aceh,1173,Kota Langsa,2019,7.7,persen
+11,Aceh,1174,Kota Lhokseumawe,2019,11.06,persen
+11,Aceh,1175,Kota Subulussalam,2019,7.25,persen
+11,Aceh,1101,Kabupaten Simeulue,2020,5.47,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2020,8.24,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2020,6.54,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2020,5.72,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2020,7.26,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2020,3.05,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2020,7.3,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2020,7.62,persen
+11,Aceh,1109,Kabupaten Pidie,2020,6.45,persen
+11,Aceh,1110,Kabupaten Bireuen,2020,4.12,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2020,8.56,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2020,3.93,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2020,2.01,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2020,7.97,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2020,5.11,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2020,4.08,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2020,1.35,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2020,6.58,persen
+11,Aceh,1171,Kota Banda Aceh,2020,9.54,persen
+11,Aceh,1172,Kota Sabang,2020,4.81,persen
+11,Aceh,1173,Kota Langsa,2020,9.75,persen
+11,Aceh,1174,Kota Lhokseumawe,2020,11.99,persen
+11,Aceh,1175,Kota Subulussalam,2020,6.93,persen
+11,Aceh,1101,Kabupaten Simeulue,2021,5.71,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2021,8.36,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2021,6.46,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2021,6.43,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2021,7.13,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2021,2.61,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2021,7.09,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2021,7.7,persen
+11,Aceh,1109,Kabupaten Pidie,2021,7.28,persen
+11,Aceh,1110,Kabupaten Bireuen,2021,4.32,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2021,8.31,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2021,4.04,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2021,1.84,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2021,5.87,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2021,4.99,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2021,3.47,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2021,1.24,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2021,3.57,persen
+11,Aceh,1171,Kota Banda Aceh,2021,8.94,persen
+11,Aceh,1172,Kota Sabang,2021,3.56,persen
+11,Aceh,1173,Kota Langsa,2021,7.21,persen
+11,Aceh,1174,Kota Lhokseumawe,2021,11.16,persen
+11,Aceh,1175,Kota Subulussalam,2021,6.26,persen
+11,Aceh,1101,Kabupaten Simeulue,2022,6,persen
+11,Aceh,1102,Kabupaten Aceh Singkil,2022,6.88,persen
+11,Aceh,1103,Kabupaten Aceh Selatan,2022,4.82,persen
+11,Aceh,1104,Kabupaten Aceh Tenggara,2022,5.09,persen
+11,Aceh,1105,Kabupaten Aceh Timur,2022,8.07,persen
+11,Aceh,1106,Kabupaten Aceh Tengah,2022,4.44,persen
+11,Aceh,1107,Kabupaten Aceh Barat,2022,6.09,persen
+11,Aceh,1108,Kabupaten Aceh Besar,2022,8.28,persen
+11,Aceh,1109,Kabupaten Pidie,2022,5.94,persen
+11,Aceh,1110,Kabupaten Bireuen,2022,4.2,persen
+11,Aceh,1111,Kabupaten Aceh Utara,2022,7.08,persen
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2022,4.12,persen
+11,Aceh,1113,Kabupaten Gayo Lues,2022,2.7,persen
+11,Aceh,1114,Kabupaten Aceh Tamiang,2022,7.38,persen
+11,Aceh,1115,Kabupaten Nagan Raya,2022,5.84,persen
+11,Aceh,1116,Kabupaten Aceh Jaya,2022,3.12,persen
+11,Aceh,1117,Kabupaten Bener Meriah,2022,2.61,persen
+11,Aceh,1118,Kabupaten Pidie Jaya,2022,4.4,persen
+11,Aceh,1171,Kota Banda Aceh,2022,8.62,persen
+11,Aceh,1172,Kota Sabang,2022,4.01,persen
+11,Aceh,1173,Kota Langsa,2022,7.85,persen
+11,Aceh,1174,Kota Lhokseumawe,2022,9.15,persen
+11,Aceh,1175,Kota Subulussalam,2022,5.75,persen
