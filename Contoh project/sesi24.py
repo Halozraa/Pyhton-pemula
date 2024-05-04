@@ -1,3 +1,6 @@
 import random
+import pandas as pd
+import numpy as np
 
-print("hello world")
+datas = "data_pengangguran.csv"
+datas. pd
